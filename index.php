@@ -1,7 +1,7 @@
 <?php 
 
 
-echo "sugod pa";
+echo "its already done";
 
 
  ?>
